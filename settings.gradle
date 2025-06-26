@@ -1,0 +1,2 @@
+rootProject.name = 'learn-spring-cloud-msa'
+include 'service-discovery','first-service', 'second-service', 'apigateway-service'
